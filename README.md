@@ -1,4 +1,4 @@
-# What's up buddy?! :wave:
+# What's up buddy?! :raised_hands:
 
 :man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institude of Santa Catarina (IFSC). I love to innovate and help people. Currently working on my undergraduate thesis, using Firebase and React Native with Javascript and also working hard on a Node.js API with Typescript from the Ignite bootcamp by @Rocketseat. I'm also really into finances and investments. :biohazard:
 
@@ -29,3 +29,4 @@
 **Interested on:**
 
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+[![Flutter](https://img.shields.io/badge/Nextjs%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
