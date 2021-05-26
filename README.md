@@ -1,6 +1,6 @@
-# Hey there! :wave:
+# What's up buddy?! :wave:
 
-:man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institude of Santa Catarina (IFSC). I love to innovate and help people. Currently working on my undergraduate thesis, using Firebase and React Native with Javascript and also working hard on a Node.js API with Typescript from the Ignite bootcamp by @Rocketseat. I'm also really into finances and investments. :money_with_wings:
+:man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institude of Santa Catarina (IFSC). I love to innovate and help people. Currently working on my undergraduate thesis, using Firebase and React Native with Javascript and also working hard on a Node.js API with Typescript from the Ignite bootcamp by @Rocketseat. I'm also really into finances and investments. :biohazard:
 
 ## Knowledge
 
@@ -11,7 +11,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 
 
 
@@ -23,13 +22,10 @@
 [![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![php](https://img.shields.io/badge/-php-fff?style=flat-square&logo=php&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 
 
 **Interested on:**
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Angular](https://img.shields.io/badge/Angular-c1132d.svg?&style=flat-square&logo=Angular&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
