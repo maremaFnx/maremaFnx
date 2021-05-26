@@ -1,6 +1,6 @@
 # What's up buddy?! :raised_hands:
 
-:man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institude of Santa Catarina (IFSC). I love to innovate and help people. Currently working on my undergraduate thesis, using Firebase and React Native with Javascript and also working hard on a Node.js API with Typescript from the Ignite bootcamp by @Rocketseat. I'm also really into finances and investments. :biohazard:
+:man_technologist: My name is Alesson Junior Toniazzo, I am 17 years old and I am taking a technical course integrated with high school in computer science at the Federal Institute of Santa Catarina (IFSC) on the Xanxerê campus. :biohazard:
 
 ## Knowledge
 
