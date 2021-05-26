@@ -28,7 +28,6 @@
 
 **Interested on:**
 
-[![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Next.js](https://img.shields.io/badge/Next.js%20-%2302569B.svg?&style=flat-square&logo=Nextjs&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Next.js](https://img.shields.io/badge/-Next.js-fff?style=flat-square&logo=php&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Vue.js](https://img.shields.io/badge/Vue.js%20-%2302569B.svg?&style=flat-square&logo=Nextjs&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+[![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Vue.jsr&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+[![Next.js](https://img.shields.io/badge/-Next.js-fff?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-fff?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
