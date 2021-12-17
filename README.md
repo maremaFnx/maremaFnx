@@ -5,12 +5,18 @@
 ## Knowledge
 
 **Very experienced:**
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/) -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 
