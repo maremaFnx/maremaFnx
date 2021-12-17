@@ -5,12 +5,6 @@
 ## Knowledge
 
 **Very experienced:**
-<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/) -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,14 +16,13 @@
 
 
 **Experienced:**
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![php](https://img.shields.io/badge/-php-fff?style=flat-square&logo=php&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 **Interested on:**
