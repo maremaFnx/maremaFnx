@@ -1,6 +1,6 @@
 # What's up buddy?! :raised_hands:
 
-:man_technologist: My name is Alesson Junior Toniazzo, I am 17 years old and I am taking a technical course integrated with high school in computer science at the Federal Institute of Santa Catarina (IFSC) on the Xanxerê campus. :biohazard:
+:man_technologist: My name is Alesson Junior Toniazzo, I am 18 years old and I am taking a technical course integrated with high school in computer science at the Federal Institute of Santa Catarina (IFSC) on the Xanxerê campus. :biohazard:
 
 ## Knowledge
 
