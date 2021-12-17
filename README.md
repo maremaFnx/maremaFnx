@@ -11,7 +11,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 
 
@@ -27,7 +27,6 @@
 
 
 **Interested on:**
-
-[![Next.js](https://img.shields.io/badge/-Next.js-fff?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-00FF7F?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
