@@ -30,3 +30,4 @@
 
 [![Next.js](https://img.shields.io/badge/-Next.js-fff?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-00FF7F?style=flat-square&link=https://github.com/maremaFnx/)](https://github.com/maremaFnx/)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
